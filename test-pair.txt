@@ -1,0 +1,8 @@
+a: <Seattle, WA> <Portland, OR> <Vancouver, BC> <Toronto, ON> 
+a: <Montreal, PQ> <Montreal, PQ> <Montreal, PQ> <Montreal, PQ> 
+b: <San Jose, PR> <San Antonio, TX> <San Luis Obispo, CA> <San Carlos, AZ> 
+a: <San Jose, PR> <San Antonio, TX> <San Luis Obispo, CA> <San Carlos, AZ> 
+b: <Montreal, PQ> <Montreal, PQ> <Montreal, PQ> <Montreal, PQ> 
+false
+b: <Santa Barbara, CA> <Montreal, PQ> <Montreal, PQ> <Santa Rosa, CA> 
+c: <Santa Barbara, CA> <Montreal, PQ> <Montreal, PQ> <Santa Rosa, CA> 
